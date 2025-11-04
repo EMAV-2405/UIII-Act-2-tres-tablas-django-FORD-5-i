@@ -888,6 +888,7 @@ UIII_Ford_0493/
 │   │   ├── vehiculos/          <-- Subcarpeta para el CRUD de Vehículos
 │   │   │   ├── agregar_vehiculo.html
 │   │   │   ├── actualizar_vehiculo.html
+│   │   │   ├── borrar_vehiculo.html
 │   │   │   └── ver_vehiculos.html
 │   │   │
 │   │   ├── base.html           <-- Plantilla principal (con Bootstrap)
